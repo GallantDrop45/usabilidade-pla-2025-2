@@ -1,5 +1,5 @@
 import './App.css';
-import Home from './pages/Home';
+import Home from './components/home';
 
 function App() {
   const title = "Bem vindo ao Clash Royale";
